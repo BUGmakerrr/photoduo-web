@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1793116087|5387121718';
+const CACHE_VERSION = '1793116354|5653740079';
 /** @type {string} */
 const CACHE_PREFIX = 'Photo Duo - Grou-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
